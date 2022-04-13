@@ -1,0 +1,32 @@
+ {
+    "bot": {
+        "prefix": ",",
+        "id": "952536058720055346",   
+        "secret": "ENV",
+        "token": "ENV"
+    },
+    "dashboard": {
+        "port": 3000,
+        "url": "https://udayanahost.ml",
+        "callback": "https://udayanahost.ml/callback",
+        "discord_server_ID": "829516828056223765",
+        "ownerids": ["710720629002862632", ""],
+        "ownershow": true,
+        "owners": [
+            {
+                "id": "710720629002862632",
+                "desc": "developer"
+            },
+            {
+                "id": "710720629002862632",
+                "desc": "user"
+            }
+        ],
+        "arc": {
+            "enabled": false,
+            "code": ""
+        }
+    },
+    "mongodb": "mongodb+srv://Udayana:udayana10@cluster0.yobvp.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "discord": "bit.ly/UdayanaDC"
+ }
